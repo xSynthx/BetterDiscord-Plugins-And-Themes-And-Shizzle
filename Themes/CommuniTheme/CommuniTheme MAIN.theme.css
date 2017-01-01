@@ -1,0 +1,11 @@
+//META{"name":"CommuniTheme","description":"A theme for the community that allows people to apply for custom tags and custom GIFatars WITHOUT paying for Nitro. Purely based on my love for the community :3. Create an issue on the GitHub repo to get added.","author":"Nyte#7883 and the <a href='https://discord.gg/0Tmfo5ZbORCRqbAd'>BetterDiscord community</a>. Can be layered on top of other themes, but please ask before including it in your theme.","version":"1"}*//{}
+/* 
+Please do not alter this theme or claim it as your own as it belongs to the community. Redistribution is fine but I would prefer if you were to point people to the GitHub URL. 
+If you wish to be included in the theme, DM Nyte#7883 or create an issue on the GitHub
+What your DM should contain:
+Whether you want a GIFatar / custom avatar, a custom tag, or both
+If it's a GIFatar / custom avatar then obviously I need a URL [HTTPS ONLY PLEASE]
+If it's a custom tag, tell me what you want the compact version and the expanded version to say
+*/
+
+@import url("https://cdn.rawgit.com/Nytelife26/db54c524cf310805da2a6273fb44e74c/raw/ee33cecc5ad51878052015237da1c231cc33095a/CommuniTheme.theme.css");
